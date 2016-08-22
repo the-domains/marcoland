@@ -1,3 +1,4 @@
+layout_spectrum: 0.9142683334648609
 typography_spectrum: 0.13248737854883075
 color:
   brandStrength: 0.8083633328787982
@@ -5,12 +6,9 @@ color:
   saturation: 0.7295884685590863
   rhythmicContrast: 0.5543698489200324
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-layout_spectrum: 0.9142683334648609
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: marcoland
-title: July 15
-description: "ee \_shs ee tihtno "
