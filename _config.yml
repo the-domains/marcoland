@@ -1,4 +1,3 @@
-layout_spectrum: 0.9142683334648609
 typography_spectrum: 0.13248737854883075
 color:
   brandStrength: 0.8083633328787982
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+layout_spectrum: 0.9142683334648609
 name: marcoland
+title: July 15
