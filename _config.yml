@@ -1,0 +1,14 @@
+layout_spectrum: 0.9142683334648609
+typography_spectrum: 0.13248737854883075
+color:
+  brandStrength: 0.8083633328787982
+  lightness: 0.579905717400834
+  saturation: 0.7295884685590863
+  rhythmicContrast: 0.5543698489200324
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: marcoland
